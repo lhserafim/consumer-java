@@ -1,5 +1,6 @@
 
-£
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡şÏÖøÿÿÿÿ8ÆşÁ˜£.
+X	java:S125"<This block of commented-out lines of code should be removed.(æ™•ƒ8ª¥‘™£.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(­¸¤Êúÿÿÿÿ8ŞØê˜£.
+X	java:S125"<This block of commented-out lines of code should be removed.(à­‡8¢Ãš™£.
 Z
-java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8µ¬Â˜£.
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8µ¬Â˜£.
